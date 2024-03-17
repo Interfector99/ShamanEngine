@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello Shamans." << endl;
+	ShamanEngine engine;
+	engine.run();
 	return 0;
 }
